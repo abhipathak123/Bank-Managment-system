@@ -1,0 +1,104 @@
+{
+  "account": [
+    {
+      "acno": "SBI101",
+      "pin": "4561",
+      "name": "Neha",
+      "fanme": "Mr",
+      "email": "neha@gmail.com",
+      "phone": "9349349",
+      "gender": "Male",
+      "country": "Indai",
+      "state": "UK",
+      "city": "Dheradun",
+      "amount": 31000,
+      "id": 1
+    },
+    {
+      "acno": "SBI102",
+      "pin": "1234",
+      "name": "tushar",
+      "fanme": "Mr",
+      "email": "tushar@gmail.com",
+      "phone": "9349349",
+      "gender": "Male",
+      "country": "Indai",
+      "state": "UK",
+      "city": "Dheradun",
+      "amount": 31200,
+      "id": 2
+    },
+    {
+      "acno": "SBI103",
+      "pin": "4321",
+      "name": "malik",
+      "fanme": "Mr",
+      "email": "malik@gmail.com",
+      "phone": "9349349",
+      "gender": "Male",
+      "country": "Indai",
+      "state": "UK",
+      "city": "Dheradun",
+      "amount": "5000",
+      "id": 3
+    }
+  ],
+  "mytran": [
+    {
+      "acno": "SBI101",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:43:53",
+      "ds": "Withdrawl",
+      "id": 1
+    },
+    {
+      "acno": "SBI101",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:45:21",
+      "ds": "Transfered",
+      "id": 2
+    },
+    {
+      "acno": "SBI101",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:45:21",
+      "ds": "Transfered",
+      "id": 3
+    },
+    {
+      "acno": "SBI102",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:45:21",
+      "ds": "Recieved",
+      "id": 4
+    },
+    {
+      "acno": "SBI101",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:45:31",
+      "ds": "Transfered",
+      "id": 5
+    },
+    {
+      "acno": "SBI101",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:45:31",
+      "ds": "Transfered",
+      "id": 6
+    },
+    {
+      "acno": "SBI102",
+      "amount": "100",
+      "day": "06/12/2023 ",
+      "t": "17:45:31",
+      "ds": "Recieved",
+      "id": 7
+    }
+  ]
+}
